@@ -1,5 +1,5 @@
 What is DocAction?
-          DocAction is an AI-powered, image-based document assistant that analyzes document images, extracts important information, deadlines, and required actions, and generates a simple summary. The summary can then be sent directly to the user’s Telegram for easy access.
+DocAction is an AI-powered, image-based document assistant that analyzes document images, extracts important information, deadlines, and required actions, and generates a simple summary. The summary can then be sent directly to the user’s Telegram for easy access.
 
 ✨ Features
 
